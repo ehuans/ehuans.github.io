@@ -16,7 +16,7 @@ const items = [
   { name: "crocodile", image: "02.jpg" },
   { name: "macaw", image: "03.jpg" },
   { name: "gorilla", image: "04.jpg" },
-  { name: "tiger", image: "05.jpeg" },
+  { name: "tiger", image: "05.jpg" },
   { name: "monkey", image: "06.jpg" },
   { name: "chameleon", image: "07.jpg" },
   { name: "piranha", image: "08.jpg" },
