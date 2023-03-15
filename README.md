@@ -22,7 +22,8 @@
     </div>
     <div class="controls-container">
       <p id="result"></p>
-      <button id="start">Start Game</button>
+      <button id="start">Memory game</button>
+      <button class="button button2">Random Word</button>
     </div>
     <!-- Script -->
     <script src="game.js"></script>
